@@ -1,0 +1,7 @@
+All sources can be found at the Rockchip-Linux repo:
+
+https://github.com/rockchip-linux/mpp
+https://github.com/rockchip-linux/libmali
+
+I only made changes to the Debian package control files. They
+can be extracted from the packages themselves.

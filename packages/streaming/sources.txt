@@ -1,0 +1,5 @@
+The widevine and flash binaries can be extracted from ChromeOS using this script:
+https://gist.github.com/teacupx/9393507ad6250429707f0318b04f1a3b
+
+The source for the docker container is here:
+https://github.com/teacupx/docker-chromium-armhf

@@ -1,0 +1,7 @@
+Sources available here:
+
+https://launchpad.net/~nilarimogard/+archive/ubuntu/webupd8/+sourcefiles/pulseaudio-equalizer/2.7.0.2-5~webupd8~xenial0/pulseaudio-equalizer_2.7.0.2-5~webupd8~xenial0.dsc
+
+I manually added some presets from here:
+
+https://github.com/rsommerard/pulse-presets

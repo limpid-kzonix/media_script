@@ -1,0 +1,4 @@
+All sources can be found at my tweaked repo:
+
+https://github.com/teacupx/gstreamer-rockchip
+https://github.com/teacupx/gstreamer-rockchip-extra
